@@ -1,0 +1,28 @@
+{
+  "name": "gok-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "gok": "index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "cli-table": "^0.3.5",
+    "commander": "^7.1.0",
+    "esm": "^3.2.25",
+    "figlet": "^1.5.0",
+    "inquirer": "^8.0.0",
+    "loading-cli": "^1.1.0",
+    "shelljs": "^0.8.4"
+  },
+  "author": {
+    "email": "julio.sousa@starbem.app",
+    "name": "Gok CLI",
+    "url": "https://gok.digital"
+  },
+  "engines": {
+    "node": ">=10.16.0 <=14.x.x",
+    "npm": ">=6.0.0"
+  }
+}
