@@ -14,7 +14,7 @@
     "figlet": "^1.5.0",
     "inquirer": "^8.0.0",
     "loading-cli": "^1.1.0",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   },
   "author": {
     "email": "julio.sousa@starbem.app",
